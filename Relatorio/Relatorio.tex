@@ -1,0 +1,183 @@
+\documentclass[a4paper]{article}
+% Pacotes necessários
+\usepackage[portuguese]{babel}
+\usepackage[backend=biber, style=apa, citestyle=apa, language=portuguese]{biblatex}
+\usepackage{csquotes}
+\addbibresource{Recursos/referencias.bib}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{siunitx} % Required for alignment
+\sisetup{
+  round-mode          = places, % Rounds numbers
+  round-precision     = 2, % to 2 places
+}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{karnaugh-map}
+\usepackage[section]{placeins}
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{titling}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{indentfirst}
+\usepackage{array}
+\usepackage{soul}
+\usepackage{afterpage}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\onehalfspacing
+
+
+% Comando para criar uma página vazia
+\newcommand\myemptypage{
+    \null
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \newpage
+}
+
+% Página de título principal
+\newcommand{\firsttitlepage}{
+    \begin{titlepage}
+        \centering
+        \vspace*{1cm}
+        
+        % Logos superior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/LOGO_IPB} % Substitua pelo caminho da imagem
+            \vspace{0.5cm}
+        \end{figure}
+
+        % Informações da instituição
+        \large\textbf{INSTITUTO POLITÉCNICO DE BEJA} \\
+        \large\textbf{Escola Superior de Tecnologia e Gestão} \\
+        \large\textbf{Mestrado em Engenharia de Segurança Informática} \\
+        \large\textbf{Direito na Segurança Informática e no Cibercrime} \\
+        
+        \vspace{2cm}
+        
+        % Título do projeto
+        {\Huge \textbf{Caso 1}} \\
+        
+        \vspace{1.5cm}
+        
+        % Autores
+        \large Paulo António Tavares Abade - 23919 \\
+        
+        \vfill
+        
+        % Logo inferior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/IPBejaESTIG.jpg} % Substitua pelo caminho da imagem
+        \end{figure}
+        
+        \vspace{1cm}
+        
+        % Local e data
+        {\large Beja, abril de 2025}
+    \end{titlepage}
+}
+
+
+\begin{document}
+
+
+\pagenumbering{gobble} % Oculta numeração da página
+
+% Primeira página de título
+\firsttitlepage
+
+%\secondtitlepage
+
+
+% Abstract
+%\section*{\LARGE\textbf{\textit{Resumo}}}
+
+%Resposta ao Caso 1 da disciplina de Regulação Informática, onde foi necessário analisar informação...
+
+
+\vspace{1cm}
+% Keywords
+%\textbf{Keywords:} rgdp
+\newpage
+%--------------------------------------------------------------------------------------------------------------------------------------
+
+%\section*{\LARGE\textbf{\textit{Abstract}}}
+
+%Response to Case 1 of the discipline of Computer Regulation, where it was necessary to analyze information...
+
+
+
+
+\vspace{1cm}
+% Keywords
+%\textbf{Keywords:} rgdp
+%\renewcommand{\contentsname}{Índice}       % Título do sumário
+%\renewcommand{\listfigurename}{Índice de Figuras} % Título da lista de figuras
+
+% Início do conteúdo do relatório
+\newpage
+\doublespacing
+%\tableofcontents
+%\listoffigures
+\doublespacing
+
+\newpage
+\pagenumbering{arabic}
+
+\section{Datel VS. Sony}\label{intro}
+Em 2012, a Sony iniciou uma tentativa de processo judicial contra a Datel, uma empresa conhecida por fabricar diversos acessórios 
+para consolas de jogos, como a Playstation Portable (PSP), sendo esta o alvo do processo em questão. A Datel produzia e 
+vendia dispositivos de batota que permitiam aos jogadores modificar jogos, desbloquear conteúdos que normalmente estariam inacessíveis, no caso 
+o Action Replay. Sendo assim, a Sony alega que com isto a Datel estava a infringir os seus direitos de propriedade intelectual, nomeadamente o código 
+do jogo, encaixando isto no Artigo 4º, alínea b) da Diretiva 2009/24/CE (\cite{diretiva-2009-24}) onde é referido que "A tradução, adaptação, ajustamentos ou outras modificações
+do programa e a reprodução dos respectivos resultados, sem prejuízo dos direitos de autor da pessoa que altere o programa", onde seria necessária autorização 
+prévia da Sony para a produção e venda destes dispositivos. Este processo judicial decorreu durante vários anos e passou por várias instâncias judiciais, 
+até chegar ao Tribunal de Justiça da União Europeia (TJUE).
+
+Antes de mais, é necessário compreender como é considerado um programa de computador/código de jogo. De acordo com o Artigo 1º da Diretiva 2009/24/CE (\cite{diretiva-2009-24}),
+um programa de computador é definido como "uma sequência de instruções ou declarações concebidas para serem utilizadas, direta ou indiretamente, numa máquina de 
+processamento de dados para efectuar uma função ou tarefa específica ou para obter um resultado específico". Assim, o código do jogo está protegido pela legislação de direitos de autor,
+impedindo a sua reprodução ou modificação sem autorização do titular dos direitos, neste caso, a Sony. 
+
+O Advogado-Geral do TJUE, Maciej Szpunar, ao dar as suas conclusões sobre o caso, não conseguiu identificar uma violação dos direitos de autor, como é mostrado no documento 
+de conclusões (\cite{conclusoes-advogado}). Ele argumenta, no ponto 57, que os dispositivos de batota não alteram o código do jogo, mas sim a experiência do jogador ao modificar essas variáveis 
+presentes na memória volátil (RAM) do dispositivo, onde ainda faz uma analogia que facilita a compreensão do caso. Ao imaginar um livro de romance policial, o autor não pode 
+impedir que o leitor vá até ao final do livro para descobrir o desfecho da história, mesmo que isso estrague o prazer da leitura e estrague o suspense que o autor tentou criar.
+Tudo isto para dizer que, o local que está a ser alterado é um local que está sempre a ser alterado durante a execução do jogo, então a Sony nunca conseguirá prever essas alterações com 
+certeza absoluta.
+
+Este ainda diz, no ponto 58, que a Sony está a confundir-se entre a proteção do direito de autor e a proteção contra a concorrência desleal, já que utiliza o argumento de que 
+o programa da Datel "se enxerta no programa da Sony", porém como este caso está relacionado com direitos de autor, o TJUE não pode considerar este argumento. E acrescenta ainda que,
+embora os direitos de autor protejam o código contra a pirataria e contra a contrafação, não impede a utilização da obra de outrem como base para criar algo novo, desde que não haja 
+reprodução ou modificação do código original.
+
+Após uma análise detalhada do caso, o TJUE concordou com o advogado-geral e entendeu que não havia uma violação dos direitos de propriedade intelectual por parte da Datel. O tribunal considerou que os dispositivos 
+de batota não alteram o código do jogo em si, mas alteravam as variáveis do jogo dentro da memória RAM, isto é, uma memória volátil que armazena temporariamente os dados do jogo 
+enquanto este está a ser executado. Assim, o tribunal concluiu que a utilização destes dispositivos não constitui uma reprodução ou modificação do programa de computador protegido
+pela legislação de direitos de autor, onde isso só seria possível se o código do jogo dentro do disco UMD e/ou no cartão de memória fosse alterado, o que não era o caso.
+
+
+Sendo assim, a meu ver, a decisão do TJUE foi correta ao concluir que a Datel não infringiu os direitos de propriedade intelectual da Sony, porém é importante destacar que 
+se a Sony tivesse apresentado queixa sobre a violação de um direito de concorrência desleal, por exemplo, o resultado poderia ter sido diferente.
+
+
+
+
+%---------------------------------------------------------------------------------------------------------------------------
+
+\newpage
+\renewcommand{\refname}{Bibliografia} % Para artigos
+\renewcommand{\bibname}{Bibliografia} % Para livros e relatórios
+\addcontentsline{toc}{section}{Bibliografia} % Adiciona a Bibliografia ao índice
+\printbibliography
+
+\end{document}
