@@ -59,6 +59,47 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62023CC0159
       \endverb
     \endentry
+    \entry{diretiva-2001-29}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
+           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
+           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Parlamento\bibnamedelima Europeu},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0,
+           prefix={e},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
+      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \field{extraname}{1}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Texto oficial da Diretiva 2001/29/CE}
+      \field{title}{Diretiva 2001/29/CE sobre a harmonização de certos aspetos do direito de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2001}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex%3A32001L0029
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex%3A32001L0029
+      \endverb
+    \endentry
     \entry{diretiva-2009-24}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -78,6 +119,7 @@
       \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
       \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
       \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \field{extraname}{2}
       \field{sortinit}{e}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -97,6 +139,44 @@
       \endverb
       \verb{url}
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
+      \endverb
+    \endentry
+    \entry{youtube_playgroundgermany}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1d9153bb0e98c7acb6e908ebaa10bb9}{%
+           family={Germany},
+           familyi={G\bibinitperiod},
+           given={Playground},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{fullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{fullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{bibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorbibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authornamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorfullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorfullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Vídeo explicando o caso judicial entre a Sony e a empresa de dispositivos de batota}
+      \field{title}{Sony Loses Court Case Against Cheat Device Maker}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
       \endverb
     \endentry
   \enddatalist
@@ -141,6 +221,47 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62023CC0159
       \endverb
     \endentry
+    \entry{diretiva-2001-29}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
+           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
+           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Parlamento\bibnamedelima Europeu},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0,
+           prefix={e},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
+      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
+      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \field{extraname}{1}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Texto oficial da Diretiva 2001/29/CE}
+      \field{title}{Diretiva 2001/29/CE sobre a harmonização de certos aspetos do direito de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2001}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex%3A32001L0029
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=celex%3A32001L0029
+      \endverb
+    \endentry
     \entry{diretiva-2009-24}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -160,6 +281,7 @@
       \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
       \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
       \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \field{extraname}{2}
       \field{sortinit}{e}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -179,6 +301,44 @@
       \endverb
       \verb{url}
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
+      \endverb
+    \endentry
+    \entry{youtube_playgroundgermany}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1d9153bb0e98c7acb6e908ebaa10bb9}{%
+           family={Germany},
+           familyi={G\bibinitperiod},
+           given={Playground},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{fullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{fullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{bibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorbibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authornamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorfullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \strng{authorfullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Vídeo explicando o caso judicial entre a Sony e a empresa de dispositivos de batota}
+      \field{title}{Sony Loses Court Case Against Cheat Device Maker}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
       \endverb
     \endentry
   \enddatalist
