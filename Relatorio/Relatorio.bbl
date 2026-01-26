@@ -59,6 +59,46 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62023CC0159
       \endverb
     \endentry
+    \entry{dmca}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff1fdd70b4b2921f0d0e61ef73db4c82}{%
+           family={Estados\bibnamedelima Unidos},
+           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Congresso},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{fullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{fullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{bibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorbibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authornamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorfullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorfullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Texto oficial do Digital Millennium Copyright Act (DMCA)}
+      \field{title}{Digital Millennium Copyright Act (DMCA)}
+      \field{urlday}{28}
+      \field{urlmonth}{10}
+      \field{urlyear}{1998}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.copyright.gov/legislation/dmca.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.copyright.gov/legislation/dmca.pdf
+      \endverb
+    \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -141,42 +181,44 @@
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
       \endverb
     \endentry
-    \entry{youtube_playgroundgermany}{online}{}{}
+    \entry{case-blizzard-mdy}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e1d9153bb0e98c7acb6e908ebaa10bb9}{%
-           family={Germany},
-           familyi={G\bibinitperiod},
-           given={Playground},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a3de040be50e12e150dabc3313e21a3}{%
+           family={District\bibnamedelimb of\bibnamedelima Arizona},
+           familyi={D\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={United\bibnamedelimb States\bibnamedelimb District\bibnamedelima Court},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for\bibnamedelima the},
+           prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
       }
-      \strng{namehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{fullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{fullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{bibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorbibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authornamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorfullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorfullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \strng{namehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{fullhash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{fullhashraw}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{bibnamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorbibnamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authornamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorfullhash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorfullhashraw}{3a3de040be50e12e150dabc3313e21a3}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Vídeo explicando o caso judicial entre a Sony e a empresa de dispositivos de batota}
-      \field{title}{Sony Loses Court Case Against Cheat Device Maker}
-      \field{urlday}{10}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
-      \field{year}{2025}
+      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
+      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2008}
+      \field{year}{2008}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
       \endverb
       \verb{url}
-      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
       \endverb
     \endentry
   \enddatalist
@@ -221,6 +263,46 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62023CC0159
       \endverb
     \endentry
+    \entry{dmca}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff1fdd70b4b2921f0d0e61ef73db4c82}{%
+           family={Estados\bibnamedelima Unidos},
+           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Congresso},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{fullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{fullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{bibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorbibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authornamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorfullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \strng{authorfullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Texto oficial do Digital Millennium Copyright Act (DMCA)}
+      \field{title}{Digital Millennium Copyright Act (DMCA)}
+      \field{urlday}{28}
+      \field{urlmonth}{10}
+      \field{urlyear}{1998}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.copyright.gov/legislation/dmca.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.copyright.gov/legislation/dmca.pdf
+      \endverb
+    \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -303,42 +385,44 @@
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
       \endverb
     \endentry
-    \entry{youtube_playgroundgermany}{online}{}{}
+    \entry{case-blizzard-mdy}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e1d9153bb0e98c7acb6e908ebaa10bb9}{%
-           family={Germany},
-           familyi={G\bibinitperiod},
-           given={Playground},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a3de040be50e12e150dabc3313e21a3}{%
+           family={District\bibnamedelimb of\bibnamedelima Arizona},
+           familyi={D\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={United\bibnamedelimb States\bibnamedelimb District\bibnamedelima Court},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for\bibnamedelima the},
+           prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
       }
-      \strng{namehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{fullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{fullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{bibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorbibnamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authornamehash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorfullhash}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \strng{authorfullhashraw}{e1d9153bb0e98c7acb6e908ebaa10bb9}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \strng{namehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{fullhash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{fullhashraw}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{bibnamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorbibnamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authornamehash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorfullhash}{3a3de040be50e12e150dabc3313e21a3}
+      \strng{authorfullhashraw}{3a3de040be50e12e150dabc3313e21a3}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Vídeo explicando o caso judicial entre a Sony e a empresa de dispositivos de batota}
-      \field{title}{Sony Loses Court Case Against Cheat Device Maker}
-      \field{urlday}{10}
-      \field{urlmonth}{9}
-      \field{urlyear}{2025}
-      \field{year}{2025}
+      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
+      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2008}
+      \field{year}{2008}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
       \endverb
       \verb{url}
-      \verb https://www.youtube.com/watch?v=biA7wFSFCD8
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
       \endverb
     \endentry
   \enddatalist
