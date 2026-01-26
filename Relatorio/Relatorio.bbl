@@ -99,6 +99,46 @@
       \verb https://www.copyright.gov/legislation/dmca.pdf
       \endverb
     \endentry
+    \entry{case-blizzard-mdy}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=988c84eddbc20f422834b3a0e469333a}{%
+           family={Estados\bibnamedelimb Unidos\bibnamedelimb para\bibnamedelimb o\bibnamedelimb Distrito\bibnamedelimb do\bibnamedelima Arizona},
+           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Corte\bibnamedelima Distrital},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{fullhash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{fullhashraw}{988c84eddbc20f422834b3a0e469333a}
+      \strng{bibnamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorbibnamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authornamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorfullhash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorfullhashraw}{988c84eddbc20f422834b3a0e469333a}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
+      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2008}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \endverb
+      \verb{url}
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \endverb
+    \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -181,44 +221,42 @@
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
       \endverb
     \endentry
-    \entry{case-blizzard-mdy}{online}{}{}
+    \entry{psp-agreement}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3a3de040be50e12e150dabc3313e21a3}{%
-           family={District\bibnamedelimb of\bibnamedelima Arizona},
-           familyi={D\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={United\bibnamedelimb States\bibnamedelimb District\bibnamedelima Court},
-           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0,
-           prefix={for\bibnamedelima the},
-           prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=847e94830780432de388074514de1522}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Sony\bibnamedelimb Computer\bibnamedelima Entertainment},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{fullhash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{fullhashraw}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{bibnamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorbibnamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authornamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorfullhash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorfullhashraw}{3a3de040be50e12e150dabc3313e21a3}
-      \field{sortinit}{f}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{847e94830780432de388074514de1522}
+      \strng{fullhash}{847e94830780432de388074514de1522}
+      \strng{fullhashraw}{847e94830780432de388074514de1522}
+      \strng{bibnamehash}{847e94830780432de388074514de1522}
+      \strng{authorbibnamehash}{847e94830780432de388074514de1522}
+      \strng{authornamehash}{847e94830780432de388074514de1522}
+      \strng{authorfullhash}{847e94830780432de388074514de1522}
+      \strng{authorfullhashraw}{847e94830780432de388074514de1522}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
-      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
-      \field{urlday}{4}
-      \field{urlmonth}{8}
-      \field{urlyear}{2008}
-      \field{year}{2008}
+      \field{note}{Termos e condições do acordo de licença do usuário final da PlayStation Portable (PSP)}
+      \field{title}{PlayStation Portable (PSP) End User License Agreement}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2005}
+      \field{year}{2005}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \verb https://www.playstation.com/en-us/legal/psp-system-software-license-agreement/
       \endverb
       \verb{url}
-      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \verb https://www.playstation.com/en-us/legal/psp-system-software-license-agreement/
       \endverb
     \endentry
   \enddatalist
@@ -303,6 +341,46 @@
       \verb https://www.copyright.gov/legislation/dmca.pdf
       \endverb
     \endentry
+    \entry{case-blizzard-mdy}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=988c84eddbc20f422834b3a0e469333a}{%
+           family={Estados\bibnamedelimb Unidos\bibnamedelimb para\bibnamedelimb o\bibnamedelimb Distrito\bibnamedelimb do\bibnamedelima Arizona},
+           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Corte\bibnamedelima Distrital},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{fullhash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{fullhashraw}{988c84eddbc20f422834b3a0e469333a}
+      \strng{bibnamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorbibnamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authornamehash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorfullhash}{988c84eddbc20f422834b3a0e469333a}
+      \strng{authorfullhashraw}{988c84eddbc20f422834b3a0e469333a}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
+      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2008}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \endverb
+      \verb{url}
+      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \endverb
+    \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
@@ -385,44 +463,42 @@
       \verb https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:111:0016:0022:PT:PDF
       \endverb
     \endentry
-    \entry{case-blizzard-mdy}{online}{}{}
+    \entry{psp-agreement}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3a3de040be50e12e150dabc3313e21a3}{%
-           family={District\bibnamedelimb of\bibnamedelima Arizona},
-           familyi={D\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={United\bibnamedelimb States\bibnamedelimb District\bibnamedelima Court},
-           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0,
-           prefix={for\bibnamedelima the},
-           prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=847e94830780432de388074514de1522}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Sony\bibnamedelimb Computer\bibnamedelima Entertainment},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{fullhash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{fullhashraw}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{bibnamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorbibnamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authornamehash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorfullhash}{3a3de040be50e12e150dabc3313e21a3}
-      \strng{authorfullhashraw}{3a3de040be50e12e150dabc3313e21a3}
-      \field{sortinit}{f}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{847e94830780432de388074514de1522}
+      \strng{fullhash}{847e94830780432de388074514de1522}
+      \strng{fullhashraw}{847e94830780432de388074514de1522}
+      \strng{bibnamehash}{847e94830780432de388074514de1522}
+      \strng{authorbibnamehash}{847e94830780432de388074514de1522}
+      \strng{authornamehash}{847e94830780432de388074514de1522}
+      \strng{authorfullhash}{847e94830780432de388074514de1522}
+      \strng{authorfullhashraw}{847e94830780432de388074514de1522}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Decisão judicial no caso entre Blizzard Entertainment e MDY Industries}
-      \field{title}{Blizzard Entertainment, Inc. v. MDY Industries, LLC}
-      \field{urlday}{4}
-      \field{urlmonth}{8}
-      \field{urlyear}{2008}
-      \field{year}{2008}
+      \field{note}{Termos e condições do acordo de licença do usuário final da PlayStation Portable (PSP)}
+      \field{title}{PlayStation Portable (PSP) End User License Agreement}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2005}
+      \field{year}{2005}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \verb https://www.playstation.com/en-us/legal/psp-system-software-license-agreement/
       \endverb
       \verb{url}
-      \verb https://virtuallyblind.com/files/mdy/07-14-08_Order.pdf
+      \verb https://www.playstation.com/en-us/legal/psp-system-software-license-agreement/
       \endverb
     \endentry
   \enddatalist
