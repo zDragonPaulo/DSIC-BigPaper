@@ -21,25 +21,20 @@
   \datalist[entry]{apa/apasortcite//global/global/global}
     \entry{conclusoes-advogado}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7a3ff1be73cbac1e5f187e08ba06ec4e}{%
-           family={União\bibnamedelima Europeia},
-           familyi={U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Advogado-Geral},
-           giveni={A\bibinithyphendelim G\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f25871cd459cae288bbf2538a3e03f33}{%
+           family={{Advogado-Geral da União Europeia}},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{fullhash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{fullhashraw}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{bibnamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorbibnamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authornamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorfullhash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorfullhashraw}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{fullhash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{fullhashraw}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{bibnamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorbibnamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authornamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorfullhash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorfullhashraw}{f25871cd459cae288bbf2538a3e03f33}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -61,25 +56,20 @@
     \endentry
     \entry{dmca}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ff1fdd70b4b2921f0d0e61ef73db4c82}{%
-           family={Estados\bibnamedelima Unidos},
-           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod},
-           given={Congresso},
-           giveni={C\bibinitperiod},
-           givenun=0,
-           prefix={dos},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d6dd5b2bcad35653adfbd4952461cae8}{%
+           family={{Congresso dos Estados Unidos}},
+           familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{fullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{fullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{bibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorbibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authornamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorfullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorfullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{fullhash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{fullhashraw}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{bibnamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorbibnamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authornamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorfullhash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorfullhashraw}{d6dd5b2bcad35653adfbd4952461cae8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -101,25 +91,20 @@
     \endentry
     \entry{case-blizzard-mdy}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=988c84eddbc20f422834b3a0e469333a}{%
-           family={Estados\bibnamedelimb Unidos\bibnamedelimb para\bibnamedelimb o\bibnamedelimb Distrito\bibnamedelimb do\bibnamedelima Arizona},
-           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Corte\bibnamedelima Distrital},
-           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0,
-           prefix={dos},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=62dd5d101cc82dd287a4ee167b11d28a}{%
+           family={{Corte Distrital dos Estados Unidos, Arizona}},
+           familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{fullhash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{fullhashraw}{988c84eddbc20f422834b3a0e469333a}
-      \strng{bibnamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorbibnamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authornamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorfullhash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorfullhashraw}{988c84eddbc20f422834b3a0e469333a}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{fullhash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{fullhashraw}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{bibnamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorbibnamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authornamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorfullhash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorfullhashraw}{62dd5d101cc82dd287a4ee167b11d28a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -141,26 +126,21 @@
     \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
-           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
-           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Parlamento\bibnamedelima Europeu},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0,
-           prefix={e},
-           prefixi={e\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2d950ad28e8d3c64959d44802e0a0515}{%
+           family={{Parlamento Europeu e Conselho da União Europeia}},
+           familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
-      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{namehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{bibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorbibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authornamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
       \field{extraname}{1}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -182,26 +162,21 @@
     \endentry
     \entry{diretiva-2009-24}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
-           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
-           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Parlamento\bibnamedelima Europeu},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0,
-           prefix={e},
-           prefixi={e\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2d950ad28e8d3c64959d44802e0a0515}{%
+           family={{Parlamento Europeu e Conselho da União Europeia}},
+           familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
-      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{namehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{bibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorbibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authornamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
       \field{extraname}{2}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -223,23 +198,20 @@
     \endentry
     \entry{psp-agreement}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=847e94830780432de388074514de1522}{%
-           family={Inc.},
-           familyi={I\bibinitperiod},
-           given={Sony\bibnamedelimb Computer\bibnamedelima Entertainment},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2df17b848e1f0ca58088ea8ae63f2c89}{%
+           family={{Sony Computer Entertainment Inc.}},
+           familyi={S\bibinitperiod}}}%
       }
-      \strng{namehash}{847e94830780432de388074514de1522}
-      \strng{fullhash}{847e94830780432de388074514de1522}
-      \strng{fullhashraw}{847e94830780432de388074514de1522}
-      \strng{bibnamehash}{847e94830780432de388074514de1522}
-      \strng{authorbibnamehash}{847e94830780432de388074514de1522}
-      \strng{authornamehash}{847e94830780432de388074514de1522}
-      \strng{authorfullhash}{847e94830780432de388074514de1522}
-      \strng{authorfullhashraw}{847e94830780432de388074514de1522}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \strng{namehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{fullhash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{fullhashraw}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{bibnamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorbibnamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authornamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorfullhash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorfullhashraw}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -263,25 +235,20 @@
   \datalist[entry]{apa/global//global/global/global}
     \entry{conclusoes-advogado}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7a3ff1be73cbac1e5f187e08ba06ec4e}{%
-           family={União\bibnamedelima Europeia},
-           familyi={U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Advogado-Geral},
-           giveni={A\bibinithyphendelim G\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f25871cd459cae288bbf2538a3e03f33}{%
+           family={{Advogado-Geral da União Europeia}},
+           familyi={A\bibinitperiod}}}%
       }
-      \strng{namehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{fullhash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{fullhashraw}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{bibnamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorbibnamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authornamehash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorfullhash}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \strng{authorfullhashraw}{7a3ff1be73cbac1e5f187e08ba06ec4e}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{fullhash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{fullhashraw}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{bibnamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorbibnamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authornamehash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorfullhash}{f25871cd459cae288bbf2538a3e03f33}
+      \strng{authorfullhashraw}{f25871cd459cae288bbf2538a3e03f33}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -303,25 +270,20 @@
     \endentry
     \entry{dmca}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ff1fdd70b4b2921f0d0e61ef73db4c82}{%
-           family={Estados\bibnamedelima Unidos},
-           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod},
-           given={Congresso},
-           giveni={C\bibinitperiod},
-           givenun=0,
-           prefix={dos},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d6dd5b2bcad35653adfbd4952461cae8}{%
+           family={{Congresso dos Estados Unidos}},
+           familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{fullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{fullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{bibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorbibnamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authornamehash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorfullhash}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \strng{authorfullhashraw}{ff1fdd70b4b2921f0d0e61ef73db4c82}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{fullhash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{fullhashraw}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{bibnamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorbibnamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authornamehash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorfullhash}{d6dd5b2bcad35653adfbd4952461cae8}
+      \strng{authorfullhashraw}{d6dd5b2bcad35653adfbd4952461cae8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -343,25 +305,20 @@
     \endentry
     \entry{case-blizzard-mdy}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=988c84eddbc20f422834b3a0e469333a}{%
-           family={Estados\bibnamedelimb Unidos\bibnamedelimb para\bibnamedelimb o\bibnamedelimb Distrito\bibnamedelimb do\bibnamedelima Arizona},
-           familyi={E\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Corte\bibnamedelima Distrital},
-           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0,
-           prefix={dos},
-           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=62dd5d101cc82dd287a4ee167b11d28a}{%
+           family={{Corte Distrital dos Estados Unidos, Arizona}},
+           familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{fullhash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{fullhashraw}{988c84eddbc20f422834b3a0e469333a}
-      \strng{bibnamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorbibnamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authornamehash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorfullhash}{988c84eddbc20f422834b3a0e469333a}
-      \strng{authorfullhashraw}{988c84eddbc20f422834b3a0e469333a}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \strng{namehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{fullhash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{fullhashraw}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{bibnamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorbibnamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authornamehash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorfullhash}{62dd5d101cc82dd287a4ee167b11d28a}
+      \strng{authorfullhashraw}{62dd5d101cc82dd287a4ee167b11d28a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -383,26 +340,21 @@
     \endentry
     \entry{diretiva-2001-29}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
-           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
-           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Parlamento\bibnamedelima Europeu},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0,
-           prefix={e},
-           prefixi={e\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2d950ad28e8d3c64959d44802e0a0515}{%
+           family={{Parlamento Europeu e Conselho da União Europeia}},
+           familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
-      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{namehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{bibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorbibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authornamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
       \field{extraname}{1}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -424,26 +376,21 @@
     \endentry
     \entry{diretiva-2009-24}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=313c080f969c87d58802c06f8ab13304}{%
-           family={Conselho\bibnamedelimb da\bibnamedelimb União\bibnamedelima Europeia},
-           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod},
-           given={Parlamento\bibnamedelima Europeu},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0,
-           prefix={e},
-           prefixi={e\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2d950ad28e8d3c64959d44802e0a0515}{%
+           family={{Parlamento Europeu e Conselho da União Europeia}},
+           familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{fullhashraw}{313c080f969c87d58802c06f8ab13304}
-      \strng{bibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorbibnamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authornamehash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhash}{313c080f969c87d58802c06f8ab13304}
-      \strng{authorfullhashraw}{313c080f969c87d58802c06f8ab13304}
+      \strng{namehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{fullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{bibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorbibnamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authornamehash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhash}{2d950ad28e8d3c64959d44802e0a0515}
+      \strng{authorfullhashraw}{2d950ad28e8d3c64959d44802e0a0515}
       \field{extraname}{2}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -465,23 +412,20 @@
     \endentry
     \entry{psp-agreement}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=847e94830780432de388074514de1522}{%
-           family={Inc.},
-           familyi={I\bibinitperiod},
-           given={Sony\bibnamedelimb Computer\bibnamedelima Entertainment},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2df17b848e1f0ca58088ea8ae63f2c89}{%
+           family={{Sony Computer Entertainment Inc.}},
+           familyi={S\bibinitperiod}}}%
       }
-      \strng{namehash}{847e94830780432de388074514de1522}
-      \strng{fullhash}{847e94830780432de388074514de1522}
-      \strng{fullhashraw}{847e94830780432de388074514de1522}
-      \strng{bibnamehash}{847e94830780432de388074514de1522}
-      \strng{authorbibnamehash}{847e94830780432de388074514de1522}
-      \strng{authornamehash}{847e94830780432de388074514de1522}
-      \strng{authorfullhash}{847e94830780432de388074514de1522}
-      \strng{authorfullhashraw}{847e94830780432de388074514de1522}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \strng{namehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{fullhash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{fullhashraw}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{bibnamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorbibnamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authornamehash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorfullhash}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \strng{authorfullhashraw}{2df17b848e1f0ca58088ea8ae63f2c89}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
