@@ -3083,6 +3083,8 @@
     <bcf:citekey order="10" intorder="1">psp-agreement</bcf:citekey>
     <bcf:citekey order="11" intorder="1">diretiva-2009-24</bcf:citekey>
     <bcf:citekey order="12" intorder="1">diretiva-2001-29</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">lei-cibercrime</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">cda</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

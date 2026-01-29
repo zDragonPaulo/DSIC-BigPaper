@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Relatorio"] 1769454284.24918 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1769455142.54279 0
-  "Recursos/referencias.bib" 1769454281 2668 bd16fdce05dacd62b0ae51c80e174756 ""
-  "Relatorio.bcf" 1769455142 134800 b37ac56b8a4e3b055c4142dce3be610d "pdflatex"
+["biber Relatorio"] 1769708745.52186 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1769709804.44675 0
+  "Recursos/referencias.bib" 1769708744 3449 3b7a654efef011bc9518bf7d2560ff4a ""
+  "Relatorio.bcf" 1769709804 134929 098bcf7669a0cd7e83be2ab74e9ba917 "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1769455140.54955 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Universidade/Mestrado/1º Ano/DSIC/DSIC-BigPaper/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1769455142.54379 0
+["pdflatex"] 1769709802.45468 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Universidade/Mestrado/1º Ano/DSIC/DSIC-BigPaper/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1769709804.44772 0
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769034672 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1755355484 31952 d64e41a7304836d5ae469aa4d9858a4c ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1755355478 40136 a748c5c2d104caec5356ee997f459328 ""
@@ -15,6 +15,7 @@
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1755355482 28440 6bef142aa919b04df5be71fcd8a0a496 ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1755355475 31892 52afbb7aa4e1bf9d981c8821864bb185 ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1755355477 11548 1adbfd28bd807ad0ebde0247ca2967bf ""
+  "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcti1000.pk" 1758566247 14064 b23ffda466c1c4c95f9d2d958a7d6fd2 ""
   "C:/Users/amant/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1755355398 13257295 4dd7fd2cee0125868bf59c77033f8e41 ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -26,6 +27,7 @@
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1000.tfm" 993062320 2840 5606e1a681c23005308de9d61c09a8ff ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcti1000.tfm" 993062558 1604 eaa2a1c5a522440155fc49d9724c228f ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -198,12 +200,12 @@
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Recursos/IPBejaESTIG.jpg" 1729007317 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/LOGO_IPB.png" 1729007317 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
-  "Relatorio.aux" 1769455142 3090 6210ce9e60757c0cd69815634f796fdd "pdflatex"
-  "Relatorio.bbl" 1769454286 19813 a59f4790d1c68df9d9a4b5da7cf5f420 "biber Relatorio"
-  "Relatorio.out" 1769455142 222 0cec4d611b39ff46f27f8b92b62a09a6 "pdflatex"
-  "Relatorio.run.xml" 1769455142 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1769455139 15876 2cb189d1472beb5501b37096a2071c21 ""
-  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Universidade/Mestrado/1º Ano/DSIC/DSIC-BigPaper/Relatorio/Relatorio.tex" 1769455139 15876 2cb189d1472beb5501b37096a2071c21 ""
+  "Relatorio.aux" 1769709804 3557 aa5665a9dbfba56b123cc749ec290574 "pdflatex"
+  "Relatorio.bbl" 1769708747 26471 09c3f7b0e13183f78a8c9932698d229e "biber Relatorio"
+  "Relatorio.out" 1769709804 222 0cec4d611b39ff46f27f8b92b62a09a6 "pdflatex"
+  "Relatorio.run.xml" 1769709804 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
+  "Relatorio.tex" 1769709801 19498 df55c69ac7e8e00e02ff48938f07ba44 ""
+  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Universidade/Mestrado/1º Ano/DSIC/DSIC-BigPaper/Relatorio/Relatorio.tex" 1769709801 19498 df55c69ac7e8e00e02ff48938f07ba44 ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"
